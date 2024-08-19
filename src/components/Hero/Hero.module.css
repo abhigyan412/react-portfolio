@@ -55,9 +55,9 @@
   z-index: 1;
 
   animation-name: floating;
-  animation-duration: 3s;
+  animation-duration: 2s;
   animation-iteration-count: infinite;
-  animation-timing-function: ease-in-out;
+  animation-timing-function: steps(5, end);
 }
 
 @keyframes floating {
