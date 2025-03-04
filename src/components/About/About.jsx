@@ -20,19 +20,11 @@ export const About = () => {
             <div className={styles.aboutItemText}>
               <h3>⚡ Full-Stack Developer</h3>
               <p>
-              Skilled in Django, Flask, FastAPI, and modern frontend frameworks like React.js & Vue.js.
+              Skilled in Django, Flask, FastAPI, and modern frontend frameworks like React.js & Vue.js.Expert in designing RESTful APIs, microservices
               </p>
             </div>
           </li>
-          <li className={styles.aboutItem}>
-            <img src={getImageUrl("about/serverIcon.png")} alt="Server icon" />
-            <div className={styles.aboutItemText}>
-              <h3>⚡ Backend & API Development</h3>
-              <p>
-              Expert in designing RESTful APIs, microservices, and optimizing PostgreSQL, MySQL, and Firestore for high-performance applications.
-              </p>
-            </div>
-          </li>
+          
           <li className={styles.aboutItem}>
             <img src={getImageUrl("about/cursorIcon.png")} alt="UI icon" />
             <div className={styles.aboutItemText}>

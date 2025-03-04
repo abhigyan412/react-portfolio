@@ -1,35 +1,11 @@
 [
   {
-    "title": "PROJECT:ICECREAMS.COM",
-    "imageSrc": "projects/ice.png",
-    "description": "ICECREAM Selling Site (End to End) Developed an End to End ice-cream selling  Website  ",
-    "skills": ["Django", "JQuery"],
-    "demo": "https://icecreams.vercel.app/",
-    "source": "https://www.github.com"
-  },
-
-  {
-    "title": "PROJECT:Stock Trend Predictor ",
-    "imageSrc": "projects/dd.png",
-    "description": "lUses past 10 years data to predict the trend of specified stock",
-    "skills": ["Python","scikit-learn"],
-    "source": "https://github.com/abhigyan412/Stock-prediction"
-  },
-
-  {
-    "title": "PROJECT:VOICE VIRTUAL ASSISTANT",
-    "imageSrc": "projects/download.png",
-    "description": "Used multiple libraries like pyttsx3 , speech_recognition , pyautogui and wolframalpha",
-    "skills": ["Python"],
-    "source": "https://github.com/abhigyan412/JARVIS_CODE"
-  },
-  
-  {
-    "title": "PROJECT:Knowledge Management portal ",
-    "imageSrc": "projects/hi.png",
-    "description": "Management system for Multiple stack holder including Students , Pofessors and New Applicants all at a single place",
-    "skills": ["Python", "Flask", "CSS"],
-    "source": "https://github.com/abhigyan412/Samsung-innovation-hackathon/tree/master"
+    "title": "BLOG : Building a High-Performance 3-Tier Rule Engine: Lessons I have gone through",
+    "imageSrc": "projects/rule.png",
+    "description": "",
+    "skills": [],
+    "demo": "https://github.com/abhigyan412/Rule_Engine-Zeotap-",
+    "source": "https://www.linkedin.com/pulse/building-high-performance-3-tier-rule-engine-lessons-i-tripathi-tdahc/?trackingId=6qHPdRa2Xpw6atQaLQOjgw%3D%3D"
   }
 
 ]
