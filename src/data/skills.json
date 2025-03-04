@@ -1,20 +1,13 @@
 [
-  {
-    "title": "HTML",
-    "imageSrc": "skills/html.png"
-  },
-  {
-    "title": "CSS",
-    "imageSrc": "skills/css.png"
-
-  },
-  {
-    "title": "JavaScript",
-    "imageSrc": "skills/node.png"
-  },
+  
+  
   {
     "title": "ReactJS",
     "imageSrc": "skills/react.png"
+  },
+  {
+    "title": "NodeJS",
+    "imageSrc": "skills/node.png"
   },
   
   {
@@ -33,9 +26,18 @@
     "title": "Postgresql",
     "imageSrc": "skills/postgessql.png"
   },
+  
   {
-    "title": "Python",
-    "imageSrc": "skills/python.jpg"
+    "title": "Solidity ",
+    "imageSrc": "skills/solidity.png"
+  },
+  {
+    "title": "AWS ",
+    "imageSrc": "skills/aws.png"
+  },
+  {
+    "title": "Docker ",
+    "imageSrc": "skills/docker.png"
   }
   
 ]

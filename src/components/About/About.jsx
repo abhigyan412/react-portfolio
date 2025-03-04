@@ -13,34 +13,57 @@ export const About = () => {
           alt="Me sitting with a laptop"
           className={styles.aboutImage}
         />
+        
         <ul className={styles.aboutItems}>
           <li className={styles.aboutItem}>
             <img src={getImageUrl("about/cursorIcon.png")} alt="Cursor icon" />
             <div className={styles.aboutItemText}>
-              <h3>Full-Stack Developer</h3>
+              <h3>⚡ Full-Stack Developer</h3>
               <p>
-               Full stack Django/Flask with Reactjs developer with command over sql/nosql database 
+              Skilled in Django, Flask, FastAPI, and modern frontend frameworks like React.js & Vue.js.
               </p>
             </div>
           </li>
           <li className={styles.aboutItem}>
             <img src={getImageUrl("about/serverIcon.png")} alt="Server icon" />
             <div className={styles.aboutItemText}>
-              <h3>Python Development</h3>
+              <h3>⚡ Backend & API Development</h3>
               <p>
-                Automations and command over  Web scrapping libraries with Python scripting abilities
+              Expert in designing RESTful APIs, microservices, and optimizing PostgreSQL, MySQL, and Firestore for high-performance applications.
               </p>
             </div>
           </li>
           <li className={styles.aboutItem}>
             <img src={getImageUrl("about/cursorIcon.png")} alt="UI icon" />
             <div className={styles.aboutItemText}>
-              <h3>ML Enthusiast</h3>
+              <h3>🤖 Automation & Web Scraping</h3>
               <p>
-               Machine learning Algorithms and Statistics are my keen field of interest.Had few projects ,still learning from the best
+              Built custom Python scripts for data extraction, automation, and real-time data processing using Selenium & BeautifulSoup.
               </p>
             </div>
           </li>
+          <li className={styles.aboutItem}>
+          <img src={getImageUrl("about/serverIcon.png")} alt="Server icon" />
+            <div className={styles.aboutItemText}>
+              <h3>🔧 DevOps & Cloud</h3>
+              <p>
+              Hands-on experience with Docker, Kubernetes, AWS, and CI/CD pipelines, ensuring smooth deployments and high availability.
+              </p>
+            </div>
+          </li>
+          <li className={styles.aboutItem}>
+            <img src={getImageUrl("about/cursorIcon.png")} alt="UI icon" />
+            <div className={styles.aboutItemText}>
+              <h3>📊 Machine Learning & System Design
+              </h3>
+              <p>
+              Implemented ML algorithms for predictive analytics, ranking systems, and intelligent search mechanisms. Enthusiastic about scalable architectures & performance optimization.
+              </p>
+            </div>
+          </li>
+          
+          
+          
         </ul>
       </div>
     </section>
