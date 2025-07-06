@@ -18,9 +18,10 @@ export const About = () => {
           <li className={styles.aboutItem}>
             <img src={getImageUrl("about/cursorIcon.png")} alt="Cursor icon" />
             <div className={styles.aboutItemText}>
-              <h3>⚡ Full-Stack Developer</h3>
+              <h3>⚙️ Backend & System Architecture</h3>
               <p>
-              Skilled in Django, Flask, FastAPI, and modern frontend frameworks like React.js & Vue.js.Expert in designing RESTful APIs, microservices
+              
+              Designed and deployed real-time, production-grade backends using FastAPI, Django, and PostgreSQL.Built scalable microservices, async data pipelines, and rule engines with Redis, Celery, and AST compilers.
               </p>
             </div>
           </li>
@@ -28,9 +29,10 @@ export const About = () => {
           <li className={styles.aboutItem}>
             <img src={getImageUrl("about/cursorIcon.png")} alt="UI icon" />
             <div className={styles.aboutItemText}>
-              <h3>🤖 Automation & Web Scraping</h3>
+              <h3>🤖 LLM Integration & AI Workflows</h3>
               <p>
-              Built custom Python scripts for data extraction, automation, and real-time data processing using Selenium & BeautifulSoup.
+              Implemented end-to-end LLM pipelines using LangChain, Pinecone, and AWS Bedrock.
+Delivered intelligent document classification, vector search, and prompt-engineered APIs for real clients.
               </p>
             </div>
           </li>
@@ -52,7 +54,23 @@ export const About = () => {
               Implemented ML algorithms for predictive analytics, ranking systems, and intelligent search mechanisms. Enthusiastic about scalable architectures & performance optimization.
               </p>
             </div>
+
+            
           </li>
+
+          <li className={styles.aboutItem}>
+            <img src={getImageUrl("about/cursorIcon.png")} alt="UI icon" />
+            <div className={styles.aboutItemText}>
+              <h3>📖 Creative Works
+              </h3>
+              <p>
+              In 2025, I also self-published “What Love ?” — a quiet reflection on human emotion and connection.
+              </p>
+            </div>
+
+            
+          </li>
+          
           
           
           

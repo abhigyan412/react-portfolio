@@ -38,6 +38,19 @@
   {
     "title": "Docker ",
     "imageSrc": "skills/docker.png"
+  },
+   {
+    "title": "Pinecone ",
+    "imageSrc": "skills/pinecone.png"
   }
+  , {
+    "title": "Langchain ",
+    "imageSrc": "skills/langchain.png"
+  }
+    , {
+    "title": "NGINX ",
+    "imageSrc": "skills/nginx.png"
+  }
+  
   
 ]

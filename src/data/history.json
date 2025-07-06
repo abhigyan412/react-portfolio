@@ -1,14 +1,32 @@
-[{
+[
+    {
+  "role": " ML-Backend Engineer - Freelance",
+  "organisation": "Safevault (Sillicon Valley - REMOTE)",
+  "startDate": "April, 2025",
+  "endDate": "Present",
+  "experiences": ["Built a FastAPI-based backend to classify 50K+ financial docs/month using LangChain, Bedrock & Pinecone."],
+  "imageSrc": "history/safe.png"
+},
+  {
   "role": "Software Engineer ",
+  "organisation": "AlphaGain Investech (QATAR - REMOTE)",
+  "startDate": "May, 2025",
+  "endDate": "Present",
+  "experiences": ["Engineered a sub-300ms latency real-time trading backend for a high-frequency platform "],
+  "imageSrc": "history/alpha.jfif"
+}
+  
+,{
+  "role": "Software Engineer (REMOTE)",
   "organisation": "Murmutations",
   "startDate": "Nov, 2024",
-  "endDate": "Present",
+  "endDate": "April , 2025",
   "experiences": ["Full stack Engineer" ],
   "imageSrc": "history/mur.png"
 },
   
   {
-    "role": "Software Engineer Contract",
+    "role": "Software Engineer Contract(REMOTE)",
     "organisation": "Zeotap",
     "startDate": "Sept, 2024",
     "endDate": "oct, 2024",
