@@ -1,40 +1,40 @@
 [
     {
-  "role": " ML-Backend Engineer - Freelance",
+  "role": " 🔹 ML-Backend Engineer - Freelance",
   "organisation": "Safevault (Sillicon Valley - REMOTE)",
   "startDate": "April, 2025",
   "endDate": "Present",
-  "experiences": ["Built a FastAPI-based backend to classify 50K+ financial docs/month using LangChain, Bedrock & Pinecone."],
+  "experiences": ["✅ Built an LLM-powered backend using FastAPI + AWS Bedrock for intelligent document workflows" , "✅ Developed a vector search system using Pinecone + LangChain for semantic document retrieval" , " Engineered scalable OCR pipelines with Celery, Redis, and AWS Textract — 60K+ files/day throughput" , "✅ Delivered a NestJS microservice for notifications, packaged into a React SDK used across teams" , "✅ Cross-functional: operated across Python + JS stacks, now being moved to Spring Boot for scaling"],
   "imageSrc": "history/safe.png"
 },
   {
-  "role": "Software Engineer ",
+  "role": " 🔹 Software Engineer ",
   "organisation": "AlphaGain Investech (QATAR - REMOTE)",
   "startDate": "May, 2025",
   "endDate": "Present",
-  "experiences": ["Engineered a sub-300ms latency real-time trading backend for a high-frequency platform "],
+  "experiences": [" ✅ Engineered real-time WebSocket pipeline for high-frequency trading — <300ms latency" , "✅ Built an async order engine using Django + Redis channels + PostgreSQL persistence" ," ✅ Deployed on cloud with Docker + NGINX + full TLS automation for secure trading infra" , "✅ Focused on performance optimization, fault tolerance, and real-time data stream reliability"],
   "imageSrc": "history/alpha.jfif"
 }
   
 ,{
-  "role": "Software Engineer (REMOTE)",
+  "role": "🔹 Software Engineer (REMOTE)",
   "organisation": "Murmutations",
   "startDate": "Nov, 2024",
   "endDate": "April , 2025",
-  "experiences": ["Full stack Engineer" ],
+  "experiences": ["✅ Developed a document ingestion backend supporting PDF, DOCX, PNG, JPG files" ,"✅ Integrated OpenSearch with custom analyzers to enable sub-500ms fuzzy/faceted search"  ],
   "imageSrc": "history/mur.png"
 },
   
   {
-    "role": "Software Engineer Contract(REMOTE)",
+    "role": "🔹  Software Engineer Contract(REMOTE)",
     "organisation": "Zeotap",
     "startDate": "Sept, 2024",
     "endDate": "oct, 2024",
-    "experiences": ["Worked on Rule Engine and Backend Logics " ],
+    "experiences": ["✅ Built a blazing-fast AST-based rule engine — evaluated 10K+ rules/sec for personalization " ," ✅ Optimized PostgreSQL indexing and Redis caching — reduced API latency by 40%"  , "✅ Developed a no-code React UI for business teams to configure/test complex logical conditions" , "✅ Focus: backend performance, UX simplicity, scalable rule evaluation" ],
     "imageSrc": "history/zeo.png"
   },
   {
-    "role": "Mentor  @  Hackathon",
+    "role": "🔹  Mentor  @  Hackathon",
     "organisation": "Samsung",
     "startDate": "May, 2023",
     "endDate": "May, 2023",

@@ -65,6 +65,7 @@ Delivered intelligent document classification, vector search, and prompt-enginee
               </h3>
               <p>
               In 2025, I also self-published “What Love ?” — a quiet reflection on human emotion and connection.
+              Also "What god ?"" A philosophical exploration of faith and belief.
               </p>
             </div>
 
