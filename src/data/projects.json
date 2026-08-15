@@ -1,5 +1,21 @@
 [
   {
+    "title": "AY Labs — Fractional Engineering Firm",
+    "tag": "AY",
+    "description": "Founded and lead AY Labs as Engineering Lead — senior, CTO-level engineers embedded directly into startup teams, shipping production-grade AI infrastructure, payments systems, and LLM pipelines within 4-8 weeks.",
+    "skills": ["AI Infrastructure", "Payments Systems", "LLM Pipelines", "Fractional CTO"],
+    "demo": "https://www.aylabs.tech/",
+    "source": ""
+  },
+  {
+    "title": "Jyotish Darshan — AI Vedic Astrology Platform",
+    "tag": "JD",
+    "description": "Founded a platform that generates Vedic birth charts (Lahiri Ayanamsa), detects planetary yogas and Vimshottari Dasha timelines, and layers an AI chat on top for plain-language, personalized readings.",
+    "skills": ["Vedic Astrology Engine", "AI Interpretation", "Freemium SaaS"],
+    "demo": "https://www.jyotishdarshan.pro/",
+    "source": ""
+  },
+  {
     "title": "BLOG 📝: Building a High-Performance 3-Tier Rule Engine: Lessons I have gone through",
     "imageSrc": "projects/rule.png",
     "description": "",

@@ -1,56 +1,26 @@
 [
-  
-  
-  {
-    "title": "ReactJS",
-    "imageSrc": "skills/react.png"
-  },
-  {
-    "title": "NodeJS",
-    "imageSrc": "skills/node.png"
-  },
-  
-  {
-    "title": "Django",
-    "imageSrc": "skills/django.png"
-  },
-  {
-    "title": "Flask",
-    "imageSrc": "skills/flask.png"
-  },
-  {
-    "title": "MongoDB",
-    "imageSrc": "skills/mongodb.png"
-  },
-  {
-    "title": "Postgresql",
-    "imageSrc": "skills/postgessql.png"
-  },
-  
-  {
-    "title": "Solidity ",
-    "imageSrc": "skills/solidity.png"
-  },
-  {
-    "title": "AWS ",
-    "imageSrc": "skills/aws.png"
-  },
-  {
-    "title": "Docker ",
-    "imageSrc": "skills/docker.png"
-  },
-   {
-    "title": "Pinecone ",
-    "imageSrc": "skills/pinecone.png"
-  }
-  , {
-    "title": "Langchain ",
-    "imageSrc": "skills/langchain.png"
-  }
-    , {
-    "title": "NGINX ",
-    "imageSrc": "skills/nginx.png"
-  }
-  
-  
+  { "title": "Python", "imageSrc": "skills/python.jpg" },
+  { "title": "JavaScript" },
+  { "title": "TypeScript" },
+  { "title": "FastAPI" },
+  { "title": "Django", "imageSrc": "skills/django.png" },
+  { "title": "Flask", "imageSrc": "skills/flask.png" },
+  { "title": "Node.js", "imageSrc": "skills/node.png" },
+  { "title": "Docker", "imageSrc": "skills/docker.png" },
+  { "title": "Kubernetes" },
+  { "title": "AWS", "imageSrc": "skills/aws.png" },
+  { "title": "CI/CD" },
+  { "title": "PostgreSQL", "imageSrc": "skills/postgessql.png" },
+  { "title": "Redis" },
+  { "title": "MongoDB", "imageSrc": "skills/mongodb.png" },
+  { "title": "Kafka" },
+  { "title": "RabbitMQ" },
+  { "title": "Celery" },
+  { "title": "OpenSearch" },
+  { "title": "System Design" },
+  { "title": "Distributed Systems" },
+  { "title": "Event-driven Architecture" },
+  { "title": "RAG" },
+  { "title": "LLM Orchestration" },
+  { "title": "AWS Bedrock" }
 ]

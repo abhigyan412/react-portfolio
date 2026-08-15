@@ -1,44 +1,84 @@
 [
-    {
-  "role": " 🔹 ML-Backend Engineer - Freelance",
-  "organisation": "Safevault (Sillicon Valley - REMOTE)",
-  "startDate": "April, 2025",
-  "endDate": "Present",
-  "experiences": ["✅ Built an LLM-powered backend using FastAPI + AWS Bedrock for intelligent document workflows" , "✅ Developed a vector search system using Pinecone + LangChain for semantic document retrieval" , " Engineered scalable OCR pipelines with Celery, Redis, and AWS Textract — 60K+ files/day throughput" , "✅ Delivered a NestJS microservice for notifications, packaged into a React SDK used across teams" , "✅ Cross-functional: operated across Python + JS stacks, now being moved to Spring Boot for scaling"],
-  "imageSrc": "history/safe.png"
-},
   {
-  "role": " 🔹 Software Engineer ",
-  "organisation": "AlphaGain Investech (QATAR - REMOTE)",
-  "startDate": "May, 2025",
-  "endDate": "Present",
-  "experiences": [" ✅ Engineered real-time WebSocket pipeline for high-frequency trading — <300ms latency" , "✅ Built an async order engine using Django + Redis channels + PostgreSQL persistence" ," ✅ Deployed on cloud with Docker + NGINX + full TLS automation for secure trading infra" , "✅ Focused on performance optimization, fault tolerance, and real-time data stream reliability"],
-  "imageSrc": "history/alpha.jfif"
-}
-  
-,{
-  "role": "🔹 Software Engineer (REMOTE)",
-  "organisation": "Murmutations",
-  "startDate": "Nov, 2024",
-  "endDate": "April , 2025",
-  "experiences": ["✅ Developed a document ingestion backend supporting PDF, DOCX, PNG, JPG files" ,"✅ Integrated OpenSearch with custom analyzers to enable sub-500ms fuzzy/faceted search"  ],
-  "imageSrc": "history/mur.png"
-},
-  
-  {
-    "role": "🔹  Software Engineer Contract(REMOTE)",
-    "organisation": "Zeotap",
-    "startDate": "Sept, 2024",
-    "endDate": "oct, 2024",
-    "experiences": ["✅ Built a blazing-fast AST-based rule engine — evaluated 10K+ rules/sec for personalization " ," ✅ Optimized PostgreSQL indexing and Redis caching — reduced API latency by 40%"  , "✅ Developed a no-code React UI for business teams to configure/test complex logical conditions" , "✅ Focus: backend performance, UX simplicity, scalable rule evaluation" ],
-    "imageSrc": "history/zeo.png"
+    "role": "Founder",
+    "organisation": "Jyotish Darshan",
+    "location": "Remote",
+    "startDate": "Jan 2026",
+    "endDate": "Present",
+    "experiences": [
+      "Founded and built an AI-powered Vedic astrology platform that generates Kundli charts and explains planets, yogas, and dashas in plain language.",
+      "Built the full product end-to-end — chart generation engine, AI explanation layer, and subscription/auth system."
+    ]
   },
   {
-    "role": "🔹  Mentor  @  Hackathon",
-    "organisation": "Samsung",
-    "startDate": "May, 2023",
-    "endDate": "May, 2023",
-    "experiences": ["Mentored 5+ participants among 25+ competing teams ", " Enabling faster project completion within 48 hours"],
-    "imageSrc": "history/sic.png"
+    "role": "Founder",
+    "organisation": "A-Y Labs",
+    "location": "Remote",
+    "startDate": "Jan 2025",
+    "endDate": "Present",
+    "experiences": [
+      "Founded a fractional CTO / engineering studio embedding as a technical partner for early-stage startups — owning architecture and shipping production-grade product in 4-8 weeks.",
+      "Shipped 10+ startup products across US, EU, and APAC clients, acting as senior engineering and technical leadership on demand."
+    ]
+  },
+  {
+    "role": "Founding Engineer (Sole Engineer)",
+    "organisation": "Zima Chat",
+    "location": "US - Remote",
+    "startDate": "Feb 2026",
+    "endDate": "Present",
+    "experiences": [
+      "Joined as the founding and sole engineer, taking Zima from an early-stage product to a production AI platform by owning architecture, engineering execution, and cloud infrastructure end-to-end.",
+      "Architected a distributed AI inference platform integrating OpenAI, Anthropic, and frontier models with latency-aware routing, streaming, provider failover, encrypted execution, and asynchronous processing.",
+      "Engineered distributed backend systems, enabling high-concurrency workloads through caching, rate limiting, event-driven workflows, and fault-tolerant service design.",
+      "Established the engineering foundation across authentication, billing, developer tooling, observability, security, CI/CD, and production operations, partnering directly with founders to rapidly evolve the platform while maintaining reliability."
+    ]
+  },
+  {
+    "role": "Backend Engineer - Payments Infrastructure",
+    "organisation": "Vesta",
+    "location": "US - Remote",
+    "startDate": "Sept 2025",
+    "endDate": "Apr 2026",
+    "experiences": [
+      "Worked on production-grade payment orchestration systems integrating with global PSPs, digital wallets, card networks, and bank acquirers across US, EU, and LATAM markets.",
+      "Contributed directly within the core payment execution path, building backend services handling routing logic, acquirer-specific processing, retries, and asynchronous workflows.",
+      "Worked extensively with idempotent payment flows, provider-specific behaviors, timeout handling, and failure scenarios across multiple payment methods.",
+      "Investigated and resolved production issues arising from non-deterministic third-party behavior, network failures, and regional payment infrastructure inconsistencies.",
+      "Developed a deep understanding of payment system correctness, reconciliation, auditability, and operational reliability in money-movement infrastructure."
+    ]
+  },
+  {
+    "role": "ML Backend Engineer",
+    "organisation": "Kramasoft Inc.",
+    "location": "US - Remote",
+    "startDate": "Apr 2025",
+    "endDate": "Sept 2025",
+    "experiences": [
+      "Built backend systems for LLM-powered document processing using FastAPI and AWS Bedrock.",
+      "Designed vector search and RAG pipelines for classification and retrieval over large unstructured datasets."
+    ]
+  },
+  {
+    "role": "Software Developer (Backend + DevOps)",
+    "organisation": "Murmuration LAB",
+    "location": "Remote",
+    "startDate": "Jul 2023",
+    "endDate": "Sept 2025",
+    "experiences": [
+      "Built real-time trading systems using WebSockets with sub-second execution latency.",
+      "Designed high-throughput rule engines using PostgreSQL and Redis for large-scale processing.",
+      "Developed search infrastructure using OpenSearch for low-latency query performance."
+    ]
+  },
+  {
+    "role": "Independent Backend Consultant",
+    "organisation": "Self-Employed",
+    "location": "",
+    "startDate": "Jan 2021",
+    "endDate": "Jun 2023",
+    "experiences": [
+      "Delivered backend systems across fintech and SaaS domains with integrated payment workflows."
+    ]
   }
 ]

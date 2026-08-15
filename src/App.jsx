@@ -7,8 +7,11 @@ import { Navbar } from "./components/Navbar/Navbar";
 import { Projects } from "./components/Projects/Projects";
 import { Creative } from "./components/Creative/Creative";
 import { Why } from "./components/why/Why";
+import { useScrollReveal } from "./hooks/useScrollReveal";
 
 function App() {
+  useScrollReveal();
+
   return (
     <div className={styles.App}>
       <Navbar />
